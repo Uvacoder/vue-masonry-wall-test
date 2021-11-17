@@ -1,5 +1,5 @@
 <h1 align="center">@yeger/vue-masonry-wall</h1>
-
+--
 <p align="center">
   <img src="demo/public/logo.png" alt="Logo" width="48px" height="48px">
 </p>
